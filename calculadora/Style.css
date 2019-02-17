@@ -14,6 +14,10 @@
 	font-size: 50px
 }
 
+#calculadora button:hover{
+	background: orange;
+}
+
 #result{
 	text-align: center;
 	font-size: 50px;
